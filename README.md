@@ -1,6 +1,6 @@
 ## My Portfolio
 
-React open-source responsive website.
+React Responsive Website.
 
 [**Portfolio**](https://github.com/PragyaSingh27/My-Portfolio.git)
 
@@ -9,13 +9,11 @@ React open-source responsive website.
 <div align="center">
 
 ## 📷App Mock-ups📷
-
 <img src = "src\assets\images\1.png" width = 1260 height = 600>
 <br>
 <img src = "src\assets\images\2.png" width = 1260 height = 600>
 <br>
 <img src = "src\assets\images\3.png" width = 1260 height = 600>
-
 </div>
 
 <!-- <img src = "images\web1.jpg" width = 1260 height = 600> -->
