@@ -2,7 +2,7 @@
   "name": "portfolio",
   "homepage": "https://PragyaSingh27.github.io/My-Portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",

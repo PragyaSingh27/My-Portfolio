@@ -11,7 +11,7 @@ function App() {
   return (
     <>
 
-    <Routes basename={process.env.PUBLIC_URL}>
+    <Routes basename="/My-Portfolio">
      
       <Route path="/" element={<Layout />} >
         <Route index element={<Home />} />
